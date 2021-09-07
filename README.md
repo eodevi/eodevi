@@ -14,4 +14,4 @@ let eodevi = {
 <br/>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=eodevi&show_icons=true&t&theme=react"/>
 
-![Snake animation](https://github.com/eodevi/eodevi/blob/output/github-contribution-grid-snake.svg)
+
