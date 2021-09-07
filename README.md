@@ -1,1 +1,17 @@
-<img src="https://i.imgur.com/4WjqHTx.png">
+
+![banner](https://i.imgur.com/4WjqHTx.png)
+
+```javascript
+let eodevi = {
+    country: 'Brazil',
+    city: 'São Paulo, SP',
+    stack: ['HTML','CSS','Javascript','Mysql', 'Express', 'React', 'NodeJS'],
+};
+```
+
+
+</p>
+<br/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=eodevi&show_icons=true&t&theme=react"/>
+
+![Snake animation](https://github.com/eodevi/eodevi/blob/output/github-contribution-grid-snake.svg)
