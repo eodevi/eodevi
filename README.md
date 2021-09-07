@@ -5,7 +5,7 @@
 let eodevi = {
     country: 'Brazil',
     city: 'São Paulo, SP',
-    stack: ['HTML','CSS','Javascript','Mysql', 'Express', 'React', 'NodeJS'],
+    stack: ['HTML','CSS','Javascript','Mysql', 'Express', 'PHP', 'NodeJS'],
 };
 ```
 
